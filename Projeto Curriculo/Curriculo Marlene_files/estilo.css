@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borda_externa{
+    border: 2px black;
+    border-style: solid;
+    padding: 15px;
+    width: 70%;
+    align-items: center;
+    
+}
+
+.informacoes{
+    border: 2px black;
+    border-style: dotted;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+h2{
+    background-color: gray;
+    text-align: center;
+}
